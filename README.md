@@ -1,2 +1,2 @@
 # My-Practice-Area
-For practice
+This is my practice area
